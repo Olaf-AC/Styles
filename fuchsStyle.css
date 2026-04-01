@@ -129,7 +129,7 @@
 }
 .theme-entry input[type=text].input-control.readonly, .theme-entry input[type=password].input-control.readonly {
   	background-color: transparent !important;
-	color: #363636 !important;
+	color: #797979 !important;
 }
 /*#endregion*/
 
