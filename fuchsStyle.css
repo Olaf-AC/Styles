@@ -127,6 +127,9 @@
 .theme-entry .input-control.checkbox.disabled {
   opacity: 0.5;
 }
+.theme-entry input[type=text].input-control.readonly, .theme-entry input[type=password].input-control.readonly {
+  color: #545454 !important;
+}
 /*#endregion*/
 
 /*#region TEXTBOX CONTROL */
